@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Sirius Cho and I have a degree of Mathematics. I am interested in data analytics and would like to start a career in it.
+I am Sirius Cho and I have a degree of Mathematics. I am interested in data analytics and would like to start a career in it. I am recently participating in a digital skills bootcamp to further develop my data analytical skills.
 
 <!--
 **siriuscho/siriuscho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
